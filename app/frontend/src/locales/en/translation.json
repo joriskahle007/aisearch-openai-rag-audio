@@ -1,0 +1,21 @@
+{
+    "app": {
+        "title": "Stelle deine Lizenzfrage!",
+        "footer": "Built with Azure AI Search + Azure OpenAI + Container App",
+        "stopRecording": "Aufnahme stoppen",
+        "startRecording": "Aufnahme starten",
+        "stopConversation": "Unterhaltung beenden"
+    },
+    "status": {
+        "notRecordingMessage": "Fragen Sie alles über das Microsoft SPLA-Programm",
+        "conversationInProgress": "Gespräch wird durchgeführt"
+    },
+    "history": {
+        "answerHistory": "Verlauf der Antworten",
+        "noHistory": "Kein Verlauf vorhanden."
+    },
+    "groundingFiles": {
+        "title": "Verwendete Dokumente",
+        "description": "Dateien, die als Grundlage für die Antworten dienen."
+    }
+}
